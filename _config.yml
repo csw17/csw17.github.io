@@ -1,14 +1,14 @@
 # Site configuration
 domain: "http://songroger.win"
-baseurl: "/murmur" # the subpath of your site, e.g. /blog
-url: "http://songroger.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://csw17.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /murmur/assets/avatar.jpg
 about: /murmur/assets/about.jpg
 favicon: /murmur/assets/favicon.ico
 basecss: 
 # Theme specific configuration
-title: songroger
+title: csw
 description: >
   Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
   I was born and raised in Hunan China. 
