@@ -1,6 +1,6 @@
 # Site configuration
 domain: "http://songroger.win"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "murmur" # the subpath of your site, e.g. /blog
 url: "http://csw17.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /murmur/assets/avatar.jpg
